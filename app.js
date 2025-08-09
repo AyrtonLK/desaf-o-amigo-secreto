@@ -7,7 +7,7 @@ let nombre = input.value.trim(); // para eliminar los espacios en el inicio y fi
 
 //acá verifico que no este vacio
 if (nombre == "") {
-    alert('Por favor, escribe un nombre.');
+    alert('Por favor, inserte un nombre.');
     return;
 }
 
